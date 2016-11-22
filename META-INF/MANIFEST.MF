@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: C:\Users\Федя\IdeaProjects\MoonRemote\src\javaRemote\a
+ pp\MainApplication.java
+Main-Class: MainApplication.java
+
